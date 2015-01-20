@@ -1,4 +1,8 @@
 exports.getResponse={
 		"id": 1,
-		"value": "pktippa"
+		"value": "get"
+};
+exports.postResponse={
+	"id":1,
+	"value":"post"
 };
